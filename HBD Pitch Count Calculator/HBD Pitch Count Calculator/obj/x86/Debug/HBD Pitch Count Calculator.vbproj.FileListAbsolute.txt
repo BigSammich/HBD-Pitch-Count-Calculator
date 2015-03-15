@@ -1,0 +1,11 @@
+C:\Users\Kyle\Desktop\HBD Pitch Count Calculator\HBD Pitch Count Calculator\bin\Debug\HBD Pitch Count Calculator.exe
+C:\Users\Kyle\Desktop\HBD Pitch Count Calculator\HBD Pitch Count Calculator\bin\Debug\HBD Pitch Count Calculator.pdb
+C:\Users\Kyle\Desktop\HBD Pitch Count Calculator\HBD Pitch Count Calculator\bin\Debug\HBD Pitch Count Calculator.xml
+C:\Users\Kyle\Desktop\HBD Pitch Count Calculator\HBD Pitch Count Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kyle\Desktop\HBD Pitch Count Calculator\HBD Pitch Count Calculator\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Kyle\Desktop\HBD Pitch Count Calculator\HBD Pitch Count Calculator\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Kyle\Desktop\HBD Pitch Count Calculator\HBD Pitch Count Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kyle\Desktop\HBD Pitch Count Calculator\HBD Pitch Count Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kyle\Desktop\HBD Pitch Count Calculator\HBD Pitch Count Calculator\obj\x86\Debug\HBD Pitch Count Calculator.exe
+C:\Users\Kyle\Desktop\HBD Pitch Count Calculator\HBD Pitch Count Calculator\obj\x86\Debug\HBD Pitch Count Calculator.xml
+C:\Users\Kyle\Desktop\HBD Pitch Count Calculator\HBD Pitch Count Calculator\obj\x86\Debug\HBD Pitch Count Calculator.pdb
